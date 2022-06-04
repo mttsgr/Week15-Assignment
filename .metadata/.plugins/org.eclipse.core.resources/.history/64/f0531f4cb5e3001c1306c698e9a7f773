@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    password: jeep
+    username: jeep
+    url: jdbc:h2:mem:jeep
+
+logging:
+  level:
+    root:
+      '[com.promineotech]' : 
+    
